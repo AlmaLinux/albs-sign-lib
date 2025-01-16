@@ -24,7 +24,7 @@ dependencies = [
     "pgpy==0.6.0",
     "pexpect==4.9.0",
     "requests==2.32.3",
-    "albs-common-lib @ git+https://github.com/AlmaLinux/albs-common-lib@0.1.1"
+    "albs-common-lib @ git+https://github.com/AlmaLinux/albs-common-lib@0.1.2"
 ]
 
 [project.optional-dependencies]

@@ -1,7 +1,5 @@
 import enum
 
-COMMUNITY_KEY_SUFFIX = 'ALBS community repo'
-
 # Max file size to allow parallel upload for
 DEFAULT_PARALLEL_FILE_UPLOAD_SIZE = 52428800  # 500 MB
 
